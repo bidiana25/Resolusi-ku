@@ -10,6 +10,6 @@ Resolusi ku adalah:
 9. Kenal dengan orang-orang penting
 10. Menjadi data scientiest
 
-1.Angular JS
-2.React
-3.MYSQL
+1.Python
+2.Vue JS
+3.React
