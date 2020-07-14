@@ -9,3 +9,7 @@ Resolusi ku adalah:
 8. Cita cita kerja diluar negeri perusahaan IT besar
 9. Kenal dengan orang-orang penting
 10. Menjadi data scientiest
+
+1.Angular JS
+2.React
+3.MYSQL
