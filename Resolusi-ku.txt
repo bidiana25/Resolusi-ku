@@ -12,3 +12,4 @@ Resolusi ku adalah:
 
 1.Python
 2.Vue JS
+3.React
